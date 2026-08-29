@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0739-daily-temperatures](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0739-daily-temperatures) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0001-two-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3718-smallest-missing-multiple-of-k) |
