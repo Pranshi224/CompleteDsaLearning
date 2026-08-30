@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0213-house-robber-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0213-house-robber-ii) |
 | [0739-daily-temperatures](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0739-daily-temperatures) |
 | [0812-largest-triangle-area](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0875-koko-eating-bananas) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0097-interleaving-string) |
+| [0213-house-robber-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0213-house-robber-ii) |
 | [1872-stone-game-viii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
