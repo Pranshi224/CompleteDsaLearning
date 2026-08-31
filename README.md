@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0213-house-robber-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0213-house-robber-ii) |
+| [0417-pacific-atlantic-water-flow](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0417-pacific-atlantic-water-flow) |
 | [0739-daily-temperatures](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0739-daily-temperatures) |
 | [0812-largest-triangle-area](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0875-koko-eating-bananas) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0074-search-a-2d-matrix) |
+| [0417-pacific-atlantic-water-flow](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0417-pacific-atlantic-water-flow) |
 ## Math
 |  |
 | ------- |
@@ -120,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0417-pacific-atlantic-water-flow) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0417-pacific-atlantic-water-flow) |
 <!---LeetCode Topics End-->
