@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0074-search-a-2d-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0417-pacific-atlantic-water-flow) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0001-two-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -130,4 +133,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0417-pacific-atlantic-water-flow) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
