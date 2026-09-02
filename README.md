@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0098-validate-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
@@ -144,4 +145,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
