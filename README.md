@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0012-integer-to-roman) |
+| [0089-gray-code](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0089-gray-code) |
 | [0812-largest-triangle-area](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0812-largest-triangle-area) |
 | [1872-stone-game-viii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1872-stone-game-viii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3875-construct-uniform-parity-array-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0089-gray-code) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
