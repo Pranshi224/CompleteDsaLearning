@@ -90,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
