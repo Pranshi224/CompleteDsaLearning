@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0146-lru-cache) |
+| [0147-insertion-sort-list](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0147-insertion-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0147-insertion-sort-list) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Depth-First Search
 |  |
