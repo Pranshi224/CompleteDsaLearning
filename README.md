@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0146-lru-cache) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3694-distinct-points-reachable-after-substring-removal) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0061-rotate-list) |
+| [0146-lru-cache](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0146-lru-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
@@ -214,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0059-spiral-matrix-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
