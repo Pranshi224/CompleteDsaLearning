@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3838-weighted-word-mapping](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3903-smallest-stable-index-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3838-weighted-word-mapping](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0059-spiral-matrix-ii) |
+| [3838-weighted-word-mapping](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
 | ------- |
