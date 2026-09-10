@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0145-binary-tree-postorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0463-island-perimeter) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0098-validate-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0145-binary-tree-postorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search Tree
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0098-validate-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0145-binary-tree-postorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
 |  |
 | ------- |
