@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3483-unique-3-digit-even-numbers) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0166-fraction-to-recurring-decimal) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Union-Find
 |  |
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0146-lru-cache) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
