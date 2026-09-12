@@ -261,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3483-unique-3-digit-even-numbers) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
