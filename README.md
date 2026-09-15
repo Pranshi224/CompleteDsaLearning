@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0213-house-robber-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Minimax
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0165-compare-version-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0876-middle-of-the-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0166-fraction-to-recurring-decimal) |
 | [0940-distinct-subsequences-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
