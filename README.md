@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0166-fraction-to-recurring-decimal) |
 | [0812-largest-triangle-area](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0812-largest-triangle-area) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1872-stone-game-viii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0213-house-robber-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1872-stone-game-viii) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3903-smallest-stable-index-i](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3903-smallest-stable-index-i) |
@@ -272,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0197-rising-temperature) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
