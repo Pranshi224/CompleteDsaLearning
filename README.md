@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0166-fraction-to-recurring-decimal) |
 | [0812-largest-triangle-area](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0812-largest-triangle-area) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1872-stone-game-viii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0812-largest-triangle-area) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Polygons
 |  |
 | ------- |
