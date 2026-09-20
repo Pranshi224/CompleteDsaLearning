@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3498-reverse-degree-of-a-string) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3838-weighted-word-mapping](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3838-weighted-word-mapping) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0059-spiral-matrix-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
