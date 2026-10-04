@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0213-house-robber-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0097-interleaving-string) |
 | [0165-compare-version-numbers](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0166-fraction-to-recurring-decimal) |
+| [0678-valid-parenthesis-string](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0739-daily-temperatures) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
