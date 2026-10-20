@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0043-multiply-strings) |
 | [0089-gray-code](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0166-fraction-to-recurring-decimal) |
 | [0812-largest-triangle-area](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0812-largest-triangle-area) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0097-interleaving-string) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0059-spiral-matrix-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3838-weighted-word-mapping) |
