@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0118-pascals-triangle) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0090-subsets-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0090-subsets-ii) |
