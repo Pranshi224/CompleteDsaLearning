@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0856-score-of-parentheses) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0146-lru-cache) |
+| [0232-implement-queue-using-stacks](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -419,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
