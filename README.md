@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0213-house-robber-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0463-island-perimeter) |
 | [0739-daily-temperatures](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0739-daily-temperatures) |
 | [0812-largest-triangle-area](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0812-largest-triangle-area) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0166-fraction-to-recurring-decimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0812-largest-triangle-area](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0812-largest-triangle-area) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0147-insertion-sort-list) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/2333-minimum-sum-of-squared-difference) |
