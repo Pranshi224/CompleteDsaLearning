@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0278-first-bad-version) |
 | [0875-koko-eating-bananas](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0875-koko-eating-bananas) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -466,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
