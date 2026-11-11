@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0166-fraction-to-recurring-decimal) |
+| [0205-isomorphic-strings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0205-isomorphic-strings) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0097-interleaving-string) |
 | [0165-compare-version-numbers](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0166-fraction-to-recurring-decimal) |
+| [0205-isomorphic-strings](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0205-isomorphic-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
