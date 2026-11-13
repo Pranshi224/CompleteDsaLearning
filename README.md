@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0059-spiral-matrix-ii](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0074-search-a-2d-matrix) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Pranshi224/CompleteDsaLearning/tree/master/0278-first-bad-version) |
